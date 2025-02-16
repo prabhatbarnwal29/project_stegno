@@ -1,7 +1,7 @@
 # project_stegno
 Cybersecurity Project on Steganography using Python.
 
-# **🖼️ Image-Based Text Encryption & Decryption**
+# **🖼️ Secure Data Hiding in Image using Steganography**
 
 A **steganography-based project** that allows users to **encrypt and hide secret messages inside images** and retrieve them later using a password. Unlike traditional steganography methods, this project **maps ASCII values directly into RGB pixel values**, ensuring **fast, efficient, and lossless encryption**.
 
